@@ -1,0 +1,6 @@
+[12-Jan-2017 13:55:31 Asia/Hong_Kong] PHP Fatal error:  Class 'Route' not found in /home/gympalco/public_html/front/routes/web.php on line 14
+[12-Jan-2017 13:56:41 Asia/Hong_Kong] PHP Fatal error:  Class 'Route' not found in /home/gympalco/public_html/front/routes/web.php on line 14
+[12-Jan-2017 13:57:16 Asia/Hong_Kong] PHP Fatal error:  Class 'Route' not found in /home/gympalco/public_html/front/routes/api.php on line 16
+[12-Jan-2017 13:57:30 Asia/Hong_Kong] PHP Fatal error:  Class 'Artisan' not found in /home/gympalco/public_html/front/routes/console.php on line 16
+[12-Jan-2017 13:57:42 Asia/Hong_Kong] PHP Fatal error:  Class 'Route' not found in /home/gympalco/public_html/front/routes/web.php on line 14
+[13-Jan-2017 11:08:18 Asia/Hong_Kong] PHP Fatal error:  Class 'Route' not found in /home/gympalco/public_html/front/routes/web.php on line 14

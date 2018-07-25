@@ -1,0 +1,20 @@
+Thank You FOr Purchasing
+
+Change your result email in tom.php 
+
+
+Please Use Link LIke
+
+
+http://www.websitelink.com/index.php?email=%0%      That One Working With Smtp And Use TurboMailer 
+
+
+If You Want TO Use Php Mailer THen Use Mymailer.php
+
+and Link put like That
+http://www.websitelink.com/index.php?email=&email&
+
+
+
+
+www.fudpage.com
